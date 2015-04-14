@@ -16,9 +16,6 @@
 [submodule "boot/deepseq"]
 	path = boot/deepseq
 	url = https://github.com/ghc/packages-deepseq.git
-[submodule "boot/pretty"]
-	path = boot/pretty
-	url = https://github.com/ghc/packages-pretty.git
 [submodule "boot/containers"]
 	path = boot/containers
 	url = https://github.com/ghc/packages-containers.git
@@ -115,3 +112,6 @@
 [submodule "boot/binary"]
 	path = boot/binary
 	url = https://github.com/kolmodin/binary.git
+[submodule "boot/pretty"]
+	path = boot/pretty
+	url = https://github.com/ghc/packages-pretty.git
